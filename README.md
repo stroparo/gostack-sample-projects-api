@@ -1,3 +1,5 @@
+![GoStack](https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png)
+
 # Projects API GoStack 12 sample
 
 This project implements a CRUD API to store information about projects with title and owner.
