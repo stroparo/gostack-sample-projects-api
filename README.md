@@ -11,7 +11,7 @@ This was made by following classes about Node, in level 1 of the GoStack 12th ed
 * Node v12.x.x
 * Yarn 1.x.x
 
-## Setup development
+## Development Environment Setup
 
 Clone this repository, enter its directory and run:
 
@@ -19,7 +19,7 @@ Clone this repository, enter its directory and run:
 yarn
 ```
 
-## Test / dev with hot reload
+### Hot Reload
 
 Run:
 
