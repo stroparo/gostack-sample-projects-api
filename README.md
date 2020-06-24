@@ -1,5 +1,11 @@
 # Projects API GoStack 12 sample
 
+This is a quick sample project made to run in node.
+
+The database is just an array in memory.
+
+Uses uuidv4 to handle unique IDs on resource creation.
+
 ## Requirements
 
 * Node v12.x.x
