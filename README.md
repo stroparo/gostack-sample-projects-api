@@ -2,7 +2,7 @@
 
 # Projects API GoStack 12 sample
 
-This project implements a CRUD API to store information about projects with title and owner.
+This project implements a Web API to store information about projects with title and owner.
 
 As this is just a sample it is simplified and information is stored only in memory (JavaScript array).
 
