@@ -4,7 +4,7 @@ This project implements a CRUD API to store information about projects with titl
 
 As this is just a sample it is simplified and information is stored only in memory (JavaScript array).
 
-This was made by following classes about Node, in level 1 of the GoStack 12th edition (by [Rocketseat](https://rocketseat.com.br/), a major software development bootcamp in Brazil).
+This was made by following classes about Node, in level 1 of the GoStack 12th edition by [Rocketseat](https://rocketseat.com.br/), a major software development bootcamp in Brazil.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ This was made by following classes about Node, in level 1 of the GoStack 12th ed
 
 ## Development Environment Setup
 
-Clone this repository, enter its directory and run:
+Clone this repository, enter its directory and execute this command in the shell/terminal:
 
 ```bash
 yarn
@@ -21,7 +21,7 @@ yarn
 
 ### Hot Reload
 
-Run:
+Execute this command in the shell/terminal:
 
 ```bash
 yarn dev
