@@ -1,10 +1,10 @@
 # Projects API GoStack 12 sample
 
-This is a quick sample project made to run in node.
+This project implements a CRUD API to store information about projects with title and owner.
 
-The database is just an array in memory.
+As this is just a sample it is simplified and information is stored only in memory (JavaScript array).
 
-Uses uuidv4 to handle unique IDs on resource creation.
+This was made by following classes about Node, in level 1 of the GoStack 12th edition (by [Rocketseat](https://rocketseat.com.br/), a major software development bootcamp in Brazil).
 
 ## Requirements
 
@@ -27,4 +27,4 @@ Run:
 yarn dev
 ```
 
-This will invoke nodemon which restarts node at each file change saved.
+This will invoke nodemon which will start node and keep restarting it upon each saved file change.
